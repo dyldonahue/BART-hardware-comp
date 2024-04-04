@@ -1,0 +1,703 @@
+(with cascadelake cpu)
+
+GPU Power usage: 29.89 Watts
+ GPU Memory usage: 1550.07 MB
+GPU Memory Percentage: 100.00%
+CPU usage: 0.00%
+RAM usage: 8.68 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.60 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 92.27%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.27 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 92.27%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.59 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 92.27%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.91 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.57 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.81 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.08 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.97 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.75 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 64.58 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.68 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 74.08 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.86 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.00 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.69 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.74 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.84 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.92 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 67.89 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.08 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.02 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.79 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 52.96 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.14 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.20 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.74 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.27 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.93 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.67 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.15 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.12 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.55 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.33 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.25 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.11 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.80%
+CPU usage: 2.80%
+RAM usage: 8.75 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.01 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 2.50%
+RAM usage: 8.75 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.51 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 2.80%
+RAM usage: 8.75 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.78 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.02 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.40 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.69 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.68 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.27 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.50 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.35 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.64 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.63 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.78 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.13 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.55 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.44 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.55 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.81 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.45 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.60 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.58 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.07 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.91 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.93 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.25 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.60%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.17 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.01 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.55 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.93 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.26 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.96 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.58 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.27 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 67.95 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.11 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.05 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.58 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.73 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.30%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.33 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 63.17 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 73.08 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.48 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.39 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.41 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.81 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.63 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.74 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.02 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.74 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.11 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.73 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.60 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.84 Watts
+ GPU Memory usage: 1558.20 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.23 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.17 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.58 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.10%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.39 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 71.55 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 69.34 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 70.87 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 67.89 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.40%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 68.96 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.70 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+GPU Power usage: 72.64 Watts
+ GPU Memory usage: 1558.19 MB
+GPU Memory Percentage: 90.78%
+CPU usage: 0.00%
+RAM usage: 8.74 GB
+RAM Percentage: 5.20%
+Total RAM: 187.36 GB
+Execution time: 87.79 seconds

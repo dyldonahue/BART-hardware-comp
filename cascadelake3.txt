@@ -1,0 +1,402 @@
+CPU usage: 34.80%
+RAM usage: 13.18 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 24.30%
+RAM usage: 13.32 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 55.00%
+RAM usage: 13.33 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 45.30%
+RAM usage: 13.32 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 58.90%
+RAM usage: 13.32 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 63.80%
+RAM usage: 13.32 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 66.20%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.33 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 12.30%
+RAM usage: 13.33 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 48.10%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 56.80%
+RAM usage: 13.31 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 65.20%
+RAM usage: 13.33 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 17.90%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 56.20%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 66.10%
+RAM usage: 13.32 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 64.40%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 44.00%
+RAM usage: 13.33 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.34 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 30.60%
+RAM usage: 13.37 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 53.00%
+RAM usage: 13.33 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 65.00%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 32.90%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 61.10%
+RAM usage: 13.32 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 65.10%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.35 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 17.40%
+RAM usage: 13.38 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 38.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 65.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 65.90%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.34 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 12.50%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 19.70%
+RAM usage: 13.34 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 39.50%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 60.60%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 61.20%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 63.00%
+RAM usage: 13.35 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 66.00%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.38 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.37 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 22.70%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 41.10%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 65.60%
+RAM usage: 13.35 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 62.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 64.10%
+RAM usage: 13.34 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 42.10%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.35 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 42.30%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 19.00%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 46.00%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 52.90%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 61.70%
+RAM usage: 13.34 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 65.70%
+RAM usage: 13.38 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.35 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 11.80%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 41.40%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 66.10%
+RAM usage: 13.34 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 65.60%
+RAM usage: 13.34 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 60.50%
+RAM usage: 13.36 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 57.50%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 66.20%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 66.10%
+RAM usage: 13.35 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 37.30%
+RAM usage: 13.39 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 64.20%
+RAM usage: 13.35 GB
+RAM Percentage: 7.50%
+Total RAM: 187.22 GB
+CPU usage: 66.00%
+RAM usage: 13.35 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 42.00%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.80%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 27.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 23.30%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 62.70%
+RAM usage: 13.37 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 60.00%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 65.80%
+RAM usage: 13.38 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 41.10%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 10.70%
+RAM usage: 13.36 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+CPU usage: 13.10%
+RAM usage: 13.40 GB
+RAM Percentage: 7.60%
+Total RAM: 187.22 GB
+begin timestamp : 1712103449.5860958; tag : run_model; duration : 1182.2681775093079; dram_0 : 13485374697.0; dram_1 : 11163869359.0
+Execution time: 1182.27 seconds
