@@ -111,7 +111,7 @@ plt.figure(figsize=(12, 8))
 
 
 plt.set_cmap('tab10')
-plt.grid(False)
+plt.grid(True, linestyle='--', alpha=0.6)
 
 # Plot each line with a label
 plt.plot(broadwell_cpu, label='Broadwell CPU', color='#1f77b4')
